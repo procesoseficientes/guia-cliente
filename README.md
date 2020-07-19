@@ -1,10 +1,10 @@
 # Android
-Pasos de instalación para la aplicación móvil
+Pasos de instalación para la aplicación móvil (versiones 2020.7>)
 
 ## Instalación
 1. Descargar aplicación
 2. Abrir e instalar APK  
-Va a aparecer un icono de una cabeza con un casco con el nombre "WMS".
+Va a aparecer un icono de una cabeza con un casco con el nombre "WMS".  
 <img src="icon-on-phone.jpg" width="100">
 
 ## Agregar archivo de configuración
@@ -24,3 +24,12 @@ Así tendría que quedar:
 |   |   |- com.mobilityscm.swift3pl
 |   |   |   |- **conf.json**
 ```
+
+## Configuración manual
+Para configurar manualmente la dirección del servidor Node
+1. En la pantalla login presionar 20 veces el texto con el número de versión
+<img src="man1.jpg" width="250">
+2. En la ventana de texto ingresar la URL
+Importante recordar el `http://`.
+<img src="man2.jpg" width="250">
+3. Presionar Ok
