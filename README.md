@@ -26,7 +26,7 @@ Así tendría que quedar:
 ```
 
 ## Configuración manual
-Para configurar manualmente la dirección del servidor Node
+Para configurar manualmente (en lugar del archivo) la dirección del servidor Node
 1. En la pantalla login presionar 20 veces el texto con el número de versión
 <img src="man1.jpg" width="250">
 2. En la ventana de texto ingresar la URL
