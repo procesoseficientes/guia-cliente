@@ -5,7 +5,7 @@ Pasos de instalación para la aplicación móvil
 1. Descargar aplicación
 2. Abrir e instalar APK  
 Va a aparecer un icono de una cabeza con un casco con el nombre "WMS".
-![](icon-on-phone.jpg)
+<img src="icon-on-phone.jpg" width="100">
 
 ## Agregar archivo de configuración
 1. Conectar Handheld (HH) a una computadora
