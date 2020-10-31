@@ -9,7 +9,7 @@ Va a aparecer un icono celeste con una "S" con el nombre "Sonde Route".
 
 ## Agregar archivo de configuración
 1. Conectar Handheld (HH) a una computadora
-2. Dentro de la memoria de la HH agregar en el directorio `Android/data/com.mobilityscm.swift3pl` un archivo `conf.json`
+2. Dentro de la memoria de la HH agregar en el directorio `Android/data/com.mobilityscm.sonda.route` un archivo `conf.json`
 3. El archivo `conf.json` tiene que tener la siguiente información:
 ```json
 {
@@ -21,7 +21,7 @@ Así tendría que quedar:
 .
 |- Android
 |   |- data
-|   |   |- com.mobilityscm.swift3pl
+|   |   |- com.mobilityscm.sonda.route
 |   |   |   |- **conf.json**
 ```
 
